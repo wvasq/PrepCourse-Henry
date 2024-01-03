@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del moudolo 2 del Prep Course de Henry
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde git
